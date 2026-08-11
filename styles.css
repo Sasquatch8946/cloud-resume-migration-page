@@ -1,0 +1,14 @@
+@import url('https://googleapis.com');
+
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    flex-direction: column;
+}
+
+p {
+    font-family: 'Comic Sans MS';
+    font-size: 2rem;
+}
